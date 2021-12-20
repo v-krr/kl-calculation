@@ -5,8 +5,7 @@ namespace vkrr\kblayout\calc;
 /**
  * 
  */
-class SignsMap
+class Monograms
 {
 
 }
- 

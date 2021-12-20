@@ -5,7 +5,7 @@ namespace vkrr\kblayout\calc;
 /**
  * 
  */
-class SignsMap
+class Trigrams
 {
 
 }

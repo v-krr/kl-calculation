@@ -1,0 +1,23 @@
+{
+    "name": "v-krr/kl-calculation",
+    "description": "Keyboard layout calculation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "v.krr",
+            "email": "v.krr@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "vkrr\\kblayout\\calc\\": "src/"
+        }
+    }    
+}
